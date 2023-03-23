@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+h1{
+    font-weight: bold;
+    color: rgb(0, 204, 255);    
+    font-size: 500%;
+    
+}
+
+.links a{
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    font-size: 400%;
+}
+
+body{
+        background-image: url('/undefined\ -\ Imgur.gif'); 
+        background-repeat: no-repeat;
+        background-size:100%;
+        bottom: 0;
+        color: black;
+        left: 0;
+        overflow: auto;
+        padding: 3em;
+        position: absolute;
+        right: 0;
+        text-align: center;
+        top: 0;
+        background-size: cover;
+    
+    
+}
