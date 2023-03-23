@@ -11,15 +11,22 @@ h1{
     font-weight: bold;
     color: rgb(1, 181, 226);    
     font-size: 500%;
+    background-image: url(/giphy\ \(3\).gif
+    );
     
 }
 
+h3{
+    color: rgb(255, 9, 9);
+}
 .links a{
+    background-image: url(/giphy_s\ \(1\).gif);
     font-weight: bold;
     color: rgb(107, 80, 223);
     text-decoration: none;
     display: inline-block;
     font-size: 400%;
+    
 }
 
 body{
